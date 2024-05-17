@@ -1,0 +1,10 @@
+2024-05-17 17:51:35,320.v2_listen_for_messages.INFO ==================================================
+2024-05-17 17:51:35,321.v2_listen_for_messages.INFO Today is 2024-05-17 at 05:51 PM
+2024-05-17 17:51:35,322.v2_listen_for_messages.INFO Running on: nt Windows 11
+2024-05-17 17:51:35,322.v2_listen_for_messages.INFO Python version:  3.12.0
+2024-05-17 17:51:35,323.v2_listen_for_messages.INFO Python path: C:\Users\Andy\streaming-03-rabbitmq\.venv
+2024-05-17 17:51:35,324.v2_listen_for_messages.INFO Working dir: C:\Users\Andy\streaming-03-rabbitmq
+2024-05-17 17:51:35,324.v2_listen_for_messages.INFO ==================================================
+2024-05-17 17:51:35,403.v2_listen_for_messages.INFO  [*] Waiting for messages. To exit press CTRL+C
+2024-05-17 17:51:35,405.v2_listen_for_messages.INFO Received: Hello World!
+2024-05-17 17:51:35,406.v2_listen_for_messages.INFO Received: Hello World!
