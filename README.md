@@ -170,4 +170,4 @@ Each of the version 2 programs include an error as well.
 
 ![Exploring the local virtual environment folder](./images/exploring_dot_venv.PNG)
 
-![Screenshot of two terminals running](.venv/Screenshot 2024-05-17 175402.png)
+![Screenshot of two terminals running](.venv/Terminals.png)
